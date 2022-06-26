@@ -1,0 +1,12 @@
+.heading{
+    color: blue;
+    border: 2px,solid,white;
+    height:50px;
+    width:100%;
+    background-color: aqua;
+    
+}
+ table,th,tr{
+    border: 1px solid black;
+    border-collapse: collapse;
+ }
